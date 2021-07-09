@@ -146,12 +146,12 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.timpin.tpiin
+    Android: com.DefaultCompany.CosmolotSlotMachine
   buildNumber:
     Standalone: 0
     iPhone: 0
     tvOS: 0
-  overrideDefaultApplicationIdentifier: 1
+  overrideDefaultApplicationIdentifier: 0
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 19
   AndroidTargetSdkVersion: 0
@@ -261,7 +261,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 3c52579d12843a843b326ced0c915df4, type: 3}
+      m_Icon: {fileID: 2800000, guid: d01aef1f57c048c43803364be3485825, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
