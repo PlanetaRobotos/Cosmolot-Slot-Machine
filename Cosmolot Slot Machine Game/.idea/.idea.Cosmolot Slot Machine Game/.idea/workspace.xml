@@ -13,10 +13,10 @@
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/UI/UISettings.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Mechanics/GameManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Mechanics/PrivacyPolicy.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Mechanics/PrivacyPolicyUI.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/UI/PrivacyPolicyUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Mechanics/GameManager.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1v4dLPJququ4Zn6uDDGaUtRCoDA" />
@@ -62,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625825239243</updated>
-      <workItem from="1625825242132" duration="4263000" />
+      <workItem from="1625825242132" duration="4691000" />
     </task>
     <servers />
   </component>

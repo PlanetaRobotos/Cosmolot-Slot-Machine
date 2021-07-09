@@ -52,7 +52,7 @@ public class GameManager : MonoBehaviour
         _canClick = true;
         _defColor = clickImage.color;
 
-        // _currentSpin = 1;
+        _currentSpin = 1;
         _buildIndex = SceneManager.GetActiveScene().buildIndex;
         if (_buildIndex == 0)
             StartCoroutine(EndlessRotation());

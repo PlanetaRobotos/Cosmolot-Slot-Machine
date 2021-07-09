@@ -481,7 +481,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -753,12 +753,13 @@ MonoBehaviour:
   - 8.95
   - 10.13
   - 6.9
-  coinPrefab: {fileID: 3452169654682236570, guid: cc4b7131a43c1d54694ae0d8f877a158, type: 3}
+  winPrefab: {fileID: 0}
   winClip: {fileID: 8300000, guid: 58ebeb898cc223e42a2057cd9b979c8d, type: 3}
   loseClip: {fileID: 8300000, guid: 32f235cb3b1a3ea41ba1c5a0e73115ef, type: 3}
   spinClip: {fileID: 8300000, guid: 87f15afacfa79be41a5d27ec0dccb8ad, type: 3}
   coinMinusClip: {fileID: 8300000, guid: 87fc209051676bb45a5039520b3b4066, type: 3}
   clickImage: {fileID: 1723568069}
+  maxScale: {x: 3, y: 3, z: 3}
 --- !u!4 &558021290
 Transform:
   m_ObjectHideFlags: 0
